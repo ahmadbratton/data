@@ -1,0 +1,12 @@
+.containers{
+    display: flex;
+    flex-direction: row;
+    margin: 7px;
+    flex: 0 1 30%;
+
+}
+.containers p{
+    display: flex;
+    flex-direction: column;
+    margin-right: 80px;
+}
